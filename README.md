@@ -19,6 +19,8 @@
 ## **Vizualização dos dados via Tableau**
 ### Para acessar nossa visualização de dados via [Tableau](https://public.tableau.com/app/profile/ana.luiza.soares/viz/Projetomdulo4-Prouni/Apresentao), clique aqui!
 
+## **Apresentação do Projeto**
+### Acessar apresentação do projeto [aqui](https://www.canva.com/design/DAEjC27k1Wk/HFRTSpeQl_UGLhLFlE5Slw/view?utm_content=DAEjC27k1Wk&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)!
 ---
 
 <div align="center">
